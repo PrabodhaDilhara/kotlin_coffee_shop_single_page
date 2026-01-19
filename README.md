@@ -1,9 +1,11 @@
 
-![Screenshot 2026-01-19 233041](https://github.com/user-attachments/assets/38cfaf08-5312-4366-b318-e7d9986d12dc)
+
 
 # ☕ Brew Haven — Coffee Shop Android App
 
-A beautiful **single-page Android application** showcasing a modern coffee shop interface built with **Kotlin** and **XML layouts**.
+![Screenshot 2026-01-19 233041](https://github.com/user-attachments/assets/38cfaf08-5312-4366-b318-e7d9986d12dc)
+
+A  **single-page Android application** showcasing a modern coffee shop interface built with **Kotlin** and **XML layouts**.
 
 ---
 
