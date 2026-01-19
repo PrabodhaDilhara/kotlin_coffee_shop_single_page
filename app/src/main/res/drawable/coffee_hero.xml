@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="400dp"
+    android:height="280dp"
+    android:viewportWidth="400"
+    android:viewportHeight="280">
+
+    <!-- Background -->
+    <path
+        android:pathData="M0,0 L400,0 L400,280 L0,280 Z"
+        android:fillColor="#4E342E"/>
+
+    <!-- Table surface -->
+    <path
+        android:pathData="M0,200 L400,200 L400,280 L0,280 Z"
+        android:fillColor="#5D4037"/>
+
+    <!-- Coffee Cup Body -->
+    <path
+        android:pathData="M150,120 L180,180 L220,180 L250,120 Z"
+        android:fillColor="#FFFFFF"/>
+
+    <!-- Cup Rim -->
+    <ellipse
+        android:pathData="M150,120 A50,8 0,0,0 250,120"
+        android:fillColor="#E0E0E0"/>
+
+    <!-- Coffee Inside -->
+    <path
+        android:pathData="M160,130 L175,175 L225,175 L240,130 Z"
+        android:fillColor="#6D4C41"/>
+
+    <!-- Coffee surface -->
+    <ellipse
+        android:pathData="M160,130 A40,6 0,0,0 240,130"
+        android:fillColor="#8D6E63"/>
+
+    <!-- Cup Handle -->
+    <path
+        android:pathData="M245,140 Q265,140 265,160 Q265,180 245,180"
+        android:strokeColor="#E0E0E0"
+        android:strokeWidth="8"
+        android:fillColor="@android:color/transparent"/>
+
+    <!-- Steam 1 -->
+    <path
+        android:pathData="M180,110 Q175,90 180,70 Q185,50 180,30"
+        android:strokeColor="#B0BEC5"
+        android:strokeWidth="3"
+        android:fillColor="@android:color/transparent"
+        android:strokeLineCap="round"/>
+
+    <!-- Steam 2 -->
+    <path
+        android:pathData="M200,115 Q195,95 200,75 Q205,55 200,35"
+        android:strokeColor="#B0BEC5"
+        android:strokeWidth="3"
+        android:fillColor="@android:color/transparent"
+        android:strokeLineCap="round"/>
+
+    <!-- Steam 3 -->
+    <path
+        android:pathData="M220,110 Q215,90 220,70 Q225,50 220,30"
+        android:strokeColor="#B0BEC5"
+        android:strokeWidth="3"
+        android:fillColor="@android:color/transparent"
+        android:strokeLineCap="round"/>
+
+    <!-- Coffee Beans scattered -->
+    <ellipse
+        android:pathData="M100,210 A8,12 -30,0,0 116,218"
+        android:fillColor="#4E342E"/>
+
+    <ellipse
+        android:pathData="M300,215 A8,12 45,0,0 316,223"
+        android:fillColor="#4E342E"/>
+
+    <ellipse
+        android:pathData="M280,205 A8,12 -15,0,0 296,213"
+        android:fillColor="#5D4037"/>
+
+</vector>

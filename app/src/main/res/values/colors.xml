@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Coffee Shop Theme Colors -->
+    <color name="coffee_dark">#3E2723</color>
+    <color name="coffee_medium">#5D4037</color>
+    <color name="coffee_brown">#6D4C41</color>
+    <color name="coffee_light">#FFF3E0</color>
+    <color name="coffee_accent">#D84315</color>
+
+    <color name="background_cream">#FFF8F0</color>
+    <color name="text_dark">#2C1810</color>
+    <color name="text_medium">#6D5D52</color>
+    <color name="text_light">#A89B8F</color>
+
+    <!-- Gradient Colors -->
+    <color name="gradient_coffee_start">#4E342E</color>
+    <color name="gradient_coffee_end">#3E2723</color>
+</resources>
